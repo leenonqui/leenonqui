@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leenonqui
 - 👀 I’m interested in startup envoironment.
-- 🌱 I’m currently learning Maths at Bicocca University in Milan
+- 🌱 I’m currently learning Economics at European University in Rome
 - 💞️ I’m looking to collaborate on projects to learn how to code
 - 📫 How to reach me @leenonqui on Instagram or Twitter
 
