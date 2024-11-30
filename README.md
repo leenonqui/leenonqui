@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leenonqui
-- 👀 I’m interested in startup envoironment.
-- 🌱 I’m currently learning Economics at European University in Rome
-- 💞️ I’m looking to collaborate on projects to learn how to code
+- 👀 I’m interested in Full Stack Data Science in order to create value thorugh business insights by deploying data pipelines and automating inference.
+- 🌱 I’m currently learning Economics at European University in Rome, learning Data Science on DataCamp and backend programming on Boot.dev
+- 💞️ I’m pushing the projects that I learn with here!
 - 📫 How to reach me [bluesky 🦋](https://bsky.app/profile/leon-jo.bsky.social) | onoratoleejohnson@gmail.com | [linkedin](https://www.linkedin.com/in/leenonqui/)
 
 <!---
