@@ -1,6 +1,6 @@
 # Hi, I'm Onorato 👋
 
-I'm an MSc student in Computational Science at USI (Università della Svizzera italiana), with a background in physics and economics.
+I'm an MSc student in Computational Science at USI (Università della Svizzera italiana), with a background in economics.
 
 I'm interested in **geometric deep learning**, complex systems, and computational approaches to quantitative finance — broadly, using the right mathematical structure to make learning and simulation more principled.
 
