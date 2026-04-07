@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @leenonqui
-- 👀 I’m interested in Full Stack Data Science in order to create value thorugh business insights by deploying data pipelines and automating inference.
-- 🌱 I’m currently learning Economics at European University in Rome, learning Data Science on DataCamp and backend programming on Boot.dev
-- 💞️ I’m pushing the projects that I learn with here!
-- 📫 How to reach me [bluesky 🦋](https://bsky.app/profile/leon-jo.bsky.social) | onoratoleejohnson@gmail.com | [linkedin](https://www.linkedin.com/in/leenonqui/)
+# Hi, I'm Onorato 👋
 
-<!---
-leenonqui/leenonqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an MSc student in Computational Science at USI (Università della Svizzera italiana), with a background in physics and economics.
+
+I'm interested in **geometric deep learning**, complex systems, and computational approaches to quantitative finance — broadly, using the right mathematical structure to make learning and simulation more principled.
+
+## What I'm working on
+- Coursework in HPC, Particle and Discretization Methods, Computer Vision and Deep Learning, and Graphical Models and Network Science
+- Studying Advanced Math and Generative Flow Models for Scenario Generation 
+
+## Background
+- 🎓 MSc Computational Science — USI Lugano (2025–2027)
+- 🎓 BSc Economics & Business — Università Europea di Roma, 110/110 cum laude
+- 📄 Thesis: game-theoretic portfolio selection with Bayesian belief updating on Scenario Paths
+
+## Reach me
+[linkedin](https://www.linkedin.com/in/leenonqui/) | onoratoleejohnson@gmail.com
